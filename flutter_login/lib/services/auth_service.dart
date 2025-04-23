@@ -1,4 +1,4 @@
-import 'package:firebase_auth/firebase_auth.dart';
+import "package:firebase_auth/firebase_auth.dart";
 import 'package:flutter/material.dart';
 
 /// Serviço de autenticação que gerencia todas as operações relacionadas ao Firebase Auth
